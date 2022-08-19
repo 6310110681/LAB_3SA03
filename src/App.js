@@ -4,9 +4,9 @@ import CharacterCard from './CharacterCard';
 
 function App() {
   return (
-    <div className='App'>
-      <Character/>
-      <Character/>
+    <div>
+      <Character value ="h"/>
+      <Character value ="i"/>
     </div>
   );
 }
