@@ -2,11 +2,15 @@ import React from 'react';
 import './App.css';
 import WordCard from './WordCard';
 
-const word = "Hello";
+const word = "Country";
 function App() {
   return (
     <div>
-      <WordCard value={word}/>
+      <WordCard value="Thailand"/>
+      <WordCard value="Korea"/>
+      <WordCard value="Japan"/>
+      <WordCard value="India"/>
+      <WordCard value="Hongkong"/>
     </div>
   );
 }
