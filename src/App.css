@@ -3,12 +3,20 @@
   text-align: center;     
   width: 3em;     
   font-size: 2em;     
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);     
+  box-shadow: 0 4px 8px 0 rgba(68, 148, 121, 0.2);     
   margin: 1em;     
   user-select: none; 
 }
 
 .activeCard {     
-  color: red;     
-  background: pink; 
+  color: rgb(32, 24, 100);     
+  background: rgb(192, 255, 241); 
 } 
+
+.App {
+  text-align: center; 
+}
+
+.body {
+  background-color: rgb(214, 235, 221); 
+}
