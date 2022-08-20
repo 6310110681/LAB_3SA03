@@ -19,6 +19,11 @@ function App() {
       <WordCard value="Japan"/>
       <WordCard value="India"/>
       <WordCard value="Hongkong"/>
+
+    <div>
+      <p>ONINT CHOOZENG STUDEN ID : 6310110681</p>
+    </div>
+
     </div>
   );
 }

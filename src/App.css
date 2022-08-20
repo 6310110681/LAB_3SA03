@@ -20,3 +20,22 @@
 .body {
   background-color: rgb(214, 235, 221); 
 }
+
+div.value {
+  background-color: rgb(220, 208, 231);
+  color: rgb(41, 29, 105);
+  margin: 20px 0 20px 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;  
+}
+
+p{
+  text-align: center;  
+}
